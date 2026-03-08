@@ -1,0 +1,18 @@
+# 🔐 Secrets & config (NEVER commit these)
+.env
+.env.local
+config-inject.js
+
+# 📦 Dependencies
+node_modules/
+
+# 💻 Editor & OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# 🗂️ Build outputs (if any)
+dist/
+build/
